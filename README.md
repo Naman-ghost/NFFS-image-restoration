@@ -1,9 +1,14 @@
 # 🧠 NFFS-image-restoration
 
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21+-lightblue.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4+-orange.svg)
+
+🎥 **Project Explanation Video:**  
+[Watch here](https://drive.google.com/file/d/1oLxkRQsbLV2dBW46GK0HYe36m8OIeGwv/view?usp=sharing)
+
 
 **Neural Frequency Fusion Studio (NFFS)** is a hybrid spatial-frequency domain image transformation system. Instead of relying on global, static filters that force a trade-off between edge preservation and noise suppression, NFFS utilizes a lightweight neural decision network to adaptively blend spatial and frequency domains on a per-patch basis.
 
